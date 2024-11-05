@@ -1,0 +1,29 @@
+p{
+    color: chocolate;
+    font-size: 20px;
+}
+
+h1{
+   color: blue;
+   font-size: 32px;
+}
+
+h2{
+    color: cadetblue;
+    font-size: 26px;
+}
+
+h3{
+    color: darkgoldenrod;
+    font-size: 24px;
+}
+
+ol li{
+    color: red;
+    font-size: 20px;
+}
+
+ul li{
+    color: green;
+    font-size: 20px;
+}
